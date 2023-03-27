@@ -6,5 +6,5 @@ Read content of given file and render properly it in HTML page also handle the e
 
 **Dependencies**
 
-Required libraries are mentioned in requirements.txt
+Required modules are mentioned in requirements.txt
 
