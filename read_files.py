@@ -18,7 +18,6 @@ def read_file(filename):
                 start_line = int(start_line)
                 end_line = int(end_line)
                 lines = lines[start_line-1:end_line]
-                print(lines)
             elif start_line:
                 start_line = int(start_line)
                 lines = lines[start_line-1:]
